@@ -1,22 +1,21 @@
-.navbar{
+.navbar {
   display: flex;
   flex-direction: row;
   width: 100%;
 }
 
-.navbtn{
+.navbtn {
   margin: 20px;
   color: #14401f;
   font-weight: bold;
 }
 
-
-#avatar{
+#avatar {
   border-radius: 50%;
 }
 
-#resume-btn
-{
+#resume-btn {
+  cursor: pointer;
   font-weight: bold;
   font-size: 15px;
   margin-top: 30px;
@@ -27,15 +26,15 @@
   border-color: #14401f;
 }
 
-#home-icons
-{
-   border-radius: 50%;
-   margin: 10px;
-   height: 40px;
-   width: 40px;
+#home-icons {
+  border-radius: 50%;
+  margin: 10px;
+  height: 40px;
+  width: 40px;
+  cursor: pointer;
 }
 
-#home-main-div{
+#home-main-div {
   width: 100%;
   display: flex;
   flex-direction: row;
@@ -43,6 +42,6 @@
   /* border: 2px solid black; */
 }
 
-*{
-  background-color:#a7d993;
+* {
+  background-color: #a7d993;
 }
