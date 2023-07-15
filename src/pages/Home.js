@@ -12,34 +12,10 @@ const Home = () => {
     <>
       <Navbar />
       <div id="home-main-div">
-        <div
-          style={{
-            marginTop: 120,
-            display: "flex",
-            alignItems: "center",
-            flexDirection: "row",
-          }}
-        >
-          <div
-            style={{
-              display: "flex",
-              flexDirection: "column",
-            }}
-          >
-            <div
-              style={{
-                fontWeight: "bold",
-                fontSize: 50,
-              }}
-            >
-              Hello 👋
-            </div>
-            <p
-              style={{
-                fontWeight: "bold",
-                fontSize: 40,
-              }}
-            >
+        <div id="home-main-div-div">
+          <div id="content-div">
+            <div id="hello">Hello 👋</div>
+            <p id="para">
               My name is Sachin Kumar <br /> I am a full stack developer.
             </p>
             <div>
@@ -73,13 +49,7 @@ const Home = () => {
               />
             </div>
           </div>
-          <div
-            style={{
-              display: "flex",
-              flexDirection: "column",
-              marginLeft: 200,
-            }}
-          >
+          <div id="profile-div">
             <img id="avatar" height={220} width={220} src={avatar} />
             <button
               onClick={() => {
