@@ -1,6 +1,10 @@
 import "../App.css";
 
+import { useNavigate } from "react-router-dom";
+
 const Navbar = () => {
+  const navigate = useNavigate();
+
   const sign = "<SachinKumar/>";
 
   return (
@@ -22,10 +26,38 @@ const Navbar = () => {
         }}
       ></div>
       <div id="nav">
-        <div className="navbtn">Home</div>
-        <div className="navbtn">Experience</div>
-        <div className="navbtn">Education</div>
-        <div className="navbtn">Projects</div>
+        <div
+          onClick={() => {
+            navigate("/");
+          }}
+          className="navbtn"
+        >
+          Home
+        </div>
+        <div
+          onClick={() => {
+            navigate("/experience");
+          }}
+          className="navbtn"
+        >
+          Experience
+        </div>
+        <div
+          onClick={() => {
+            navigate("/education");
+          }}
+          className="navbtn"
+        >
+          Education
+        </div>
+        <div
+          onClick={() => {
+            navigate("/project");
+          }}
+          className="navbtn"
+        >
+          Projects
+        </div>
       </div>
     </div>
   );
