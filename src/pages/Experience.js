@@ -39,7 +39,9 @@ const Experience = () => {
     if (id === 1) {
       window.open("https://www.linkedin.com/company/wiley-edge/mycompany/");
     } else if (id === 2) {
-      window.open("https://knockonce.in/");
+      window.open(
+        "https://drive.google.com/file/d/1nTG0xaWoM_LUX3TGULryDAEgwcWFlzz7/view?usp=sharing"
+      );
     } else if (id === 3) {
       window.open("https://github.com/ACM-VIT/fludget");
     }

@@ -23,6 +23,10 @@
 
 #exp-div1-img {
   align-self: center;
+  box-shadow: 10px 10px 5px #ccc;
+  -moz-box-shadow: 10px 10px 5px #ccc;
+  -webkit-box-shadow: 10px 10px 5px #ccc;
+  -khtml-box-shadow: 10px 10px 5px #ccc;
 }
 
 @media screen and (max-width: 900px) {

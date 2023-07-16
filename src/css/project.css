@@ -1,5 +1,4 @@
-.exp-div1 {
-  cursor: pointer;
+.proj-div1 {
   margin-top: 50px;
   margin-right: 100px;
   margin-left: 100px;
@@ -8,20 +7,21 @@
   background-color: white;
 }
 
-.exp-div2 {
+.proj-div2 {
   margin: 25px;
   background-color: white;
 }
 
-.exp-div2-h {
+.proj-div2-h {
   background-color: white;
 }
 
-.exp-div2-p {
+.proj-div2-p {
   background-color: white;
 }
 
-#exp-div1-img {
+#proj-div1-img {
+  padding-left: 20px;
   align-self: center;
   box-shadow: 10px 10px 5px #ccc;
   -moz-box-shadow: 10px 10px 5px #ccc;
@@ -29,14 +29,21 @@
   -khtml-box-shadow: 10px 10px 5px #ccc;
 }
 
+.proj-div2-btn {
+  background-color: white;
+  margin-right: 10px;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
 @media screen and (max-width: 900px) {
-  .exp-div1 {
+  .proj-div1 {
     flex-direction: column;
     margin-right: 15px;
     margin-left: 15px;
   }
 
-  #exp-div1-img {
+  #proj-div1-img {
     align-self: center;
     margin-top: 20px;
   }
