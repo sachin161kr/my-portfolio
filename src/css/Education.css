@@ -1,0 +1,41 @@
+.exp-div1 {
+  padding-left: 20px;
+  cursor: pointer;
+  margin-top: 50px;
+  margin-right: 100px;
+  margin-left: 100px;
+  display: flex;
+  flex-direction: row;
+  background-color: white;
+}
+
+.exp-div2 {
+  margin: 25px;
+  background-color: white;
+}
+
+.exp-div2-h {
+  background-color: white;
+}
+
+.exp-div2-p {
+  background-color: white;
+}
+
+#exp-div1-img {
+  align-self: center;
+}
+
+@media screen and (max-width: 900px) {
+  .exp-div1 {
+    padding-left: 0px;
+    flex-direction: column;
+    margin-right: 15px;
+    margin-left: 15px;
+  }
+
+  #exp-div1-img {
+    align-self: center;
+    margin-top: 20px;
+  }
+}

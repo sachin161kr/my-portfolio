@@ -44,19 +44,19 @@ const Navbar = () => {
         </div>
         <div
           onClick={() => {
-            navigate("/education");
-          }}
-          className="navbtn"
-        >
-          Education
-        </div>
-        <div
-          onClick={() => {
             navigate("/project");
           }}
           className="navbtn"
         >
           Projects
+        </div>
+        <div
+          onClick={() => {
+            navigate("/education");
+          }}
+          className="navbtn"
+        >
+          Education
         </div>
       </div>
     </div>
