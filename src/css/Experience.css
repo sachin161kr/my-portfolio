@@ -21,6 +21,10 @@
   background-color: white;
 }
 
+#exp-div1-img {
+  align-self: center;
+}
+
 @media screen and (max-width: 900px) {
   .exp-div1 {
     flex-direction: column;
