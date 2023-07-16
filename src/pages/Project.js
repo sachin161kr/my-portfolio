@@ -14,7 +14,7 @@ const Project = () => {
       id: 1,
       title: "Learnify | March 2023",
       desc: "A content sharing platform where you can browse as well as publish your technical articles which can be viewed by other registered users. A javascript based full-stack web application powered by React JS in the frontend and Node JS as backend using MongoDB as database and API's developed on projress JS.",
-      tech: "Technologies Used : HTML · CSS · JavaScript · MongoDB · projress JS · React JS · Node JS",
+      tech: "Technologies Used : HTML · CSS · JavaScript · MongoDB · express JS · React JS · Node JS",
       image: learnify,
       try: "https://learnify-eight.vercel.app/",
       repo: "https://github.com/sachin161kr/Learnify",
