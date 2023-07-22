@@ -7,11 +7,21 @@ import learnify from "../assets/learnify.png";
 import barter from "../assets/bartermate.png";
 import covi from "../assets/covihelp.png";
 import cross from "../assets/cross.png";
+import hireme from "../assets/hiremelogo.png";
 
 const Project = () => {
   const data = [
     {
       id: 1,
+      title: "Hire Me | July 2023",
+      desc: "A Job Portal for everyone. Hireme lets you post and find job listings from around the country. Powered By Springboot in the backend and React JS in the frontend hosted on AWS.",
+      tech: "Technologies Used : React JS · SpringBoot · Java · MySQL · JavaScript · AWS Beanstalk",
+      image: hireme,
+      try: "https://hireme-react.vercel.app/",
+      repo: "https://github.com/sachin161kr/hireme-spring",
+    },
+    {
+      id: 2,
       title: "Learnify | March 2023",
       desc: "A content sharing platform where you can browse as well as publish your technical articles which can be viewed by other registered users. A javascript based full-stack web application powered by React JS in the frontend and Node JS as backend using MongoDB as database and API's developed on projress JS.",
       tech: "Technologies Used : HTML · CSS · JavaScript · MongoDB · express JS · React JS · Node JS",
@@ -20,7 +30,7 @@ const Project = () => {
       repo: "https://github.com/sachin161kr/Learnify",
     },
     {
-      id: 2,
+      id: 3,
       title: "Splasheroo | Feb 2023 - March 2023",
       desc: "A cross platform mobile application which lets you book a slot for your car wash. Say goodbye to the traditional car wash hassle and environmental concerns with Splasheroo.",
       tech: "Technologies Used : JavaScript · React Native · Android · IOS",
@@ -29,7 +39,7 @@ const Project = () => {
       repo: "",
     },
     {
-      id: 3,
+      id: 4,
       title: "BarterMate | Jan 2022 - March 2022",
       desc: "A cross platform mobile application Barter Mate is an initiative to give you the traceability of a small amount of your money which otherwise seems insignificant. Barter Mate offers you a digital money in exchange for useless,though very useful scrap, lying idle in your houses.",
       tech: "Technologies Used : JavaScript · React Native · Android · IOS",
@@ -38,7 +48,7 @@ const Project = () => {
       repo: "",
     },
     {
-      id: 4,
+      id: 5,
       title: "Cross Zero Me | Aug 2021",
       desc: "Play a 3x3 or 5x5 Tic-Tac-Toe with Friends and Family. Play at beginner or pro-level and try to beat the un-beatable Computer. A native android application implemented using mini-max algorithm.",
       tech: "Technologies Used : Android · Navigation Component · Android Studio",
@@ -47,7 +57,16 @@ const Project = () => {
       repo: "https://github.com/sachin161kr/CrossZeroMe",
     },
     {
-      id: 5,
+      id: 6,
+      title: "Covi-Help | Jun 2021 - July 2021",
+      desc: "A cross platform mobile application which lets you track and find your nearest covid vaccination center and helps you monitor the state-wise covid data. This application shows you health related news which lets you stay updated.",
+      tech: "Technologies Used : Flutter · Dart · Android",
+      image: covi,
+      try: "https://covi-help-19805.web.app/#/",
+      repo: "https://github.com/sachin161kr/Covi-Help",
+    },
+    {
+      id: 7,
       title: "Covi-Help | Jun 2021 - July 2021",
       desc: "A cross platform mobile application which lets you track and find your nearest covid vaccination center and helps you monitor the state-wise covid data. This application shows you health related news which lets you stay updated.",
       tech: "Technologies Used : Flutter · Dart · Android",
