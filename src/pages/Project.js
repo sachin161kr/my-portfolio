@@ -21,14 +21,6 @@ const Project = () => {
       repo: "https://github.com/sachin161kr/HRMS",
     },
     {
-      title: "Hire Me | July 2023",
-      desc: "Are you seeking new job opportunities across the world or looking for the perfect candidate to fill a vacancy in your organization? Look no further! Hire Me is a cutting-edge job portal that connects talented individuals with employers and companies worldwide. Powered by React JS for the frontend and Springboot for the backend, this app offers a seamless and user-friendly experience for both job seekers and employers.",
-      tech: "Technologies Used : React JS · SpringBoot · Java · MySQL · JavaScript · AWS Beanstalk",
-      image: hireme,
-      try: "https://github.com/sachin161kr/hireme-spring",
-      repo: "https://github.com/sachin161kr/hireme-spring",
-    },
-    {
       title: "Learnify | March 2023",
       desc: "Learnify is a cutting-edge content sharing platform designed to cater to the insatiable hunger for technical knowledge and expertise. Whether you are a seasoned professional or an enthusiastic learner, Learnify is the perfect hub for browsing and publishing technical articles. Developed with state-of-the-art technologies, including React JS for the frontend, Node JS for the backend, and MongoDB for the database, Learnify offers a seamless and interactive learning experience like never before.",
       tech: "Technologies Used : HTML · CSS · JavaScript · MongoDB · express JS · React JS · Node JS",
