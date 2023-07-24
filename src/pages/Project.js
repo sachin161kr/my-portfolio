@@ -22,7 +22,7 @@ const Project = () => {
     },
     {
       title: "Hire Me | July 2023",
-      desc: "A Job Portal for everyone. Hireme lets you post and find job listings from around the country. Powered By Springboot in the backend and React JS in the frontend hosted on AWS.",
+      desc: "Are you seeking new job opportunities across the world or looking for the perfect candidate to fill a vacancy in your organization? Look no further! Hire Me is a cutting-edge job portal that connects talented individuals with employers and companies worldwide. Powered by React JS for the frontend and Springboot for the backend, this app offers a seamless and user-friendly experience for both job seekers and employers.",
       tech: "Technologies Used : React JS · SpringBoot · Java · MySQL · JavaScript · AWS Beanstalk",
       image: hireme,
       try: "https://github.com/sachin161kr/hireme-spring",
@@ -30,7 +30,7 @@ const Project = () => {
     },
     {
       title: "Learnify | March 2023",
-      desc: "A content sharing platform where you can browse as well as publish your technical articles which can be viewed by other registered users. A javascript based full-stack web application powered by React JS in the frontend and Node JS as backend using MongoDB as database and API's developed on projress JS.",
+      desc: "Learnify is a cutting-edge content sharing platform designed to cater to the insatiable hunger for technical knowledge and expertise. Whether you are a seasoned professional or an enthusiastic learner, Learnify is the perfect hub for browsing and publishing technical articles. Developed with state-of-the-art technologies, including React JS for the frontend, Node JS for the backend, and MongoDB for the database, Learnify offers a seamless and interactive learning experience like never before.",
       tech: "Technologies Used : HTML · CSS · JavaScript · MongoDB · express JS · React JS · Node JS",
       image: learnify,
       try: "https://learnify-eight.vercel.app/",
@@ -38,7 +38,7 @@ const Project = () => {
     },
     {
       title: "Splasheroo | Feb 2023 - March 2023",
-      desc: "A cross platform mobile application which lets you book a slot for your car wash. Say goodbye to the traditional car wash hassle and environmental concerns with Splasheroo.",
+      desc: "Splasheroo is a revolutionary cross-platform mobile application designed to make car wash booking a breeze. Developed using React Native, this user-friendly app allows car owners to effortlessly schedule and manage their car wash appointments with just a few taps on their smartphones. Say goodbye to long waiting times at car wash stations and welcome the convenience of Splasheroo into your life!",
       tech: "Technologies Used : JavaScript · React Native · Android · IOS",
       image: splash,
       try: "https://play.google.com/store/apps/details?id=com.splasheroo&hl=en-IN",
@@ -46,7 +46,7 @@ const Project = () => {
     },
     {
       title: "BarterMate | Jan 2022 - March 2022",
-      desc: "A cross platform mobile application Barter Mate is an initiative to give you the traceability of a small amount of your money which otherwise seems insignificant. Barter Mate offers you a digital money in exchange for useless,though very useful scrap, lying idle in your houses.",
+      desc: "Got a bunch of useless, but potentially valuable, scrap lying around in your house? Instead of letting it collect dust, why not turn it into digital money? With BarterMate, you can easily transform your discarded items into a digital currency that you can use for a variety of purposes.BarterMate is a cutting-edge cross-platform mobile application that revolutionizes the way you declutter your space and put your idle scrap to good use. Developed using the power of React Native, BarterMate seamlessly operates on both iOS and Android devices, offering an intuitive and user-friendly experience for all users.",
       tech: "Technologies Used : JavaScript · React Native · Android · IOS",
       image: barter,
       try: "https://play.google.com/store/apps/details?id=com.bartermate&hl=en-IN",
@@ -54,7 +54,7 @@ const Project = () => {
     },
     {
       title: "Cross Zero Me | Aug 2021",
-      desc: "Play a 3x3 or 5x5 Tic-Tac-Toe with Friends and Family. Play at beginner or pro-level and try to beat the un-beatable Computer. A native android application implemented using mini-max algorithm.",
+      desc: "Welcome to Cross Zero Me, the ultimate Tic Tac Toe multiplayer game for Android! Challenge your friends or test your wits against our intelligent AI opponents in this classic 3x3 board game. If you're feeling adventurous, dive into the 5x5 mode for a more challenging experience! Cross Zero Me is the perfect way to have fun, improve your strategic skills, and pass the time with engaging gameplay.",
       tech: "Technologies Used : Android · Navigation Component · Android Studio",
       image: cross,
       try: "https://www.amazon.com/dp/B09CN1LNH5/ref=apps_sf_sta",
@@ -62,7 +62,7 @@ const Project = () => {
     },
     {
       title: "Covi-Help | Jun 2021 - July 2021",
-      desc: "A cross platform mobile application which lets you track and find your nearest covid vaccination center and helps you monitor the state-wise covid data. This application shows you health related news which lets you stay updated.",
+      desc: "Covi-Help is a powerful and user-friendly cross-platform mobile application designed to provide essential COVID-19 related assistance to users. Whether you need to locate the nearest vaccination center, stay updated on state-wise COVID data, or access health-related news, Covi-Help has you covered. With a comprehensive range of features, this app aims to empower users with the necessary tools to navigate through the pandemic safely and responsibly.",
       tech: "Technologies Used : Flutter · Dart · Android",
       image: covi,
       try: "https://covi-help-19805.web.app/#/",
