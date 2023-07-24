@@ -17,7 +17,7 @@ const Project = () => {
       desc: "A Job Portal for everyone. Hireme lets you post and find job listings from around the country. Powered By Springboot in the backend and React JS in the frontend hosted on AWS.",
       tech: "Technologies Used : React JS · SpringBoot · Java · MySQL · JavaScript · AWS Beanstalk",
       image: hireme,
-      try: "https://hireme-react.vercel.app/",
+      try: "https://github.com/sachin161kr/hireme-spring",
       repo: "https://github.com/sachin161kr/hireme-spring",
     },
     {
@@ -36,7 +36,7 @@ const Project = () => {
       tech: "Technologies Used : JavaScript · React Native · Android · IOS",
       image: splash,
       try: "https://play.google.com/store/apps/details?id=com.splasheroo&hl=en-IN",
-      repo: "",
+      repo: "https://play.google.com/store/apps/details?id=com.splasheroo&hl=en-IN",
     },
     {
       id: 4,
@@ -45,7 +45,7 @@ const Project = () => {
       tech: "Technologies Used : JavaScript · React Native · Android · IOS",
       image: barter,
       try: "https://play.google.com/store/apps/details?id=com.bartermate&hl=en-IN",
-      repo: "",
+      repo: "https://play.google.com/store/apps/details?id=com.bartermate&hl=en-IN",
     },
     {
       id: 5,
@@ -58,15 +58,6 @@ const Project = () => {
     },
     {
       id: 6,
-      title: "Covi-Help | Jun 2021 - July 2021",
-      desc: "A cross platform mobile application which lets you track and find your nearest covid vaccination center and helps you monitor the state-wise covid data. This application shows you health related news which lets you stay updated.",
-      tech: "Technologies Used : Flutter · Dart · Android",
-      image: covi,
-      try: "https://covi-help-19805.web.app/#/",
-      repo: "https://github.com/sachin161kr/Covi-Help",
-    },
-    {
-      id: 7,
       title: "Covi-Help | Jun 2021 - July 2021",
       desc: "A cross platform mobile application which lets you track and find your nearest covid vaccination center and helps you monitor the state-wise covid data. This application shows you health related news which lets you stay updated.",
       tech: "Technologies Used : Flutter · Dart · Android",
