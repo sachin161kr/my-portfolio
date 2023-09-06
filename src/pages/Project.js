@@ -19,7 +19,7 @@ const Project = () => {
       tech: "Technologies Used : HTML · CSS · JavaScript · GSAP",
       image: sidcup,
       try: "https://golf-indol.vercel.app/",
-      repo: "https://github.com/sachin161kr/Golf/tree/master",
+      repo: "https://github.com/sachin161kr/Golf",
     },
     {
       title: "Learnify | March 2023",
