@@ -9,16 +9,17 @@ import covi from "../assets/covihelp.png";
 import cross from "../assets/cross.png";
 import hireme from "../assets/hiremelogo.png";
 import hrmslogo from "../assets/HRMSlogo.png";
+import sidcup from "../assets/sidcup.jpg";
 
 const Project = () => {
   const data = [
     {
-      title: "HR Management System | July 2023",
-      desc: "The HR Management System is a powerful and user-friendly application designed to streamline and optimize the human resources operations within an organization. Leveraging the cutting-edge technologies of React JS for the frontend and Springboot for the backend, this app provides an efficient and seamless experience for managing HR-related tasks, processes, and data.",
-      tech: "Technologies Used : React JS · SpringBoot · Java · MySQL · JavaScript",
-      image: hrmslogo,
-      try: "https://github.com/sachin161kr/HRMS",
-      repo: "https://github.com/sachin161kr/HRMS",
+      title: "Sidcup Family Golf | Aug 2023",
+      desc: "The Sidcup Family Golf Website Clone is a web development project that aims to recreate the website of Sidcup Family Golf using a combination of HTML, CSS, and JavaScript. The Sidcup Family Golf Website Clone is an exemplary demonstration of cutting-edge frontend development skills, harnessing advanced CSS concepts to recreate the website",
+      tech: "Technologies Used : HTML · CSS · JavaScript · GSAP",
+      image: sidcup,
+      try: "https://golf-indol.vercel.app/",
+      repo: "https://github.com/SACHIN161KR/GOLF/TREE/MASTER",
     },
     {
       title: "Learnify | March 2023",
